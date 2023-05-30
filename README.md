@@ -8,7 +8,7 @@ My name is Manuel Corpas, and currently I'm studying web development. As a begin
 With this project, I learned a bit more about positioning with Flexbox and how to lay it out as I wanted.
 
 
-This project is nearly in a perfect state, but as I said before, I'm still learning, so I will update it once I gain more knowledge.
+This project is not nearly in a perfect state, but as I said before, I'm still learning, so I will update it once I gain more knowledge.
 
 ## 📸 Screenshots
 
